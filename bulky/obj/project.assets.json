@@ -1053,6 +1053,42 @@
             "rid": "win"
           }
         }
+      },
+      "Bullky.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Bullky.Models": "1.0.0",
+          "Bullky.Utility": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "7.0.12",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.12"
+        },
+        "compile": {
+          "bin/placeholder/Bullky.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bullky.DataAccess.dll": {}
+        }
+      },
+      "Bullky.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Bullky.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bullky.Models.dll": {}
+        }
+      },
+      "Bullky.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Bullky.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Bullky.Utility.dll": {}
+        }
       }
     }
   },
@@ -2875,10 +2911,28 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Bullky.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Bullky.DataAccess/Bullky.DataAccess.csproj",
+      "msbuildProject": "../Bullky.DataAccess/Bullky.DataAccess.csproj"
+    },
+    "Bullky.Models/1.0.0": {
+      "type": "project",
+      "path": "../Bullky.Models/Bullky.Models.csproj",
+      "msbuildProject": "../Bullky.Models/Bullky.Models.csproj"
+    },
+    "Bullky.Utility/1.0.0": {
+      "type": "project",
+      "path": "../Bullky.Utility/Bullky.Utility.csproj",
+      "msbuildProject": "../Bullky.Utility/Bullky.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Bullky.DataAccess >= 1.0.0",
+      "Bullky.Models >= 1.0.0",
+      "Bullky.Utility >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 7.0.12",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.12",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.12"
@@ -2910,7 +2964,17 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.DataAccess\\Bullky.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.DataAccess\\Bullky.DataAccess.csproj"
+            },
+            "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Models\\Bullky.Models.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Models\\Bullky.Models.csproj"
+            },
+            "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Utility\\Bullky.Utility.csproj": {
+              "projectPath": "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Utility\\Bullky.Utility.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

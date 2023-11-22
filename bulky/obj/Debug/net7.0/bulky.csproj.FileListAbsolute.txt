@@ -73,3 +73,9 @@ C:\Users\LENOVO\source\repos\bulky\bulky\obj\Debug\net7.0\refint\bulky.dll
 C:\Users\LENOVO\source\repos\bulky\bulky\obj\Debug\net7.0\bulky.pdb
 C:\Users\LENOVO\source\repos\bulky\bulky\obj\Debug\net7.0\bulky.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\bulky\bulky\obj\Debug\net7.0\ref\bulky.dll
+C:\Users\LENOVO\source\repos\bulky\bulky\bin\Debug\net7.0\Bullky.DataAccess.dll
+C:\Users\LENOVO\source\repos\bulky\bulky\bin\Debug\net7.0\Bullky.Models.dll
+C:\Users\LENOVO\source\repos\bulky\bulky\bin\Debug\net7.0\Bullky.Utility.dll
+C:\Users\LENOVO\source\repos\bulky\bulky\bin\Debug\net7.0\Bullky.DataAccess.pdb
+C:\Users\LENOVO\source\repos\bulky\bulky\bin\Debug\net7.0\Bullky.Models.pdb
+C:\Users\LENOVO\source\repos\bulky\bulky\bin\Debug\net7.0\Bullky.Utility.pdb

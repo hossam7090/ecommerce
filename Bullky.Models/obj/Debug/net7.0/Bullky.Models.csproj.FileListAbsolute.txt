@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\bulky\Bullky.Models\bin\Debug\net7.0\Bullky.Models.deps.json
+C:\Users\LENOVO\source\repos\bulky\Bullky.Models\bin\Debug\net7.0\Bullky.Models.dll
+C:\Users\LENOVO\source\repos\bulky\Bullky.Models\bin\Debug\net7.0\Bullky.Models.pdb
+C:\Users\LENOVO\source\repos\bulky\Bullky.Models\obj\Debug\net7.0\Bullky.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\bulky\Bullky.Models\obj\Debug\net7.0\Bullky.Models.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\bulky\Bullky.Models\obj\Debug\net7.0\Bullky.Models.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\bulky\Bullky.Models\obj\Debug\net7.0\Bullky.Models.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\bulky\Bullky.Models\obj\Debug\net7.0\Bullky.Models.dll
+C:\Users\LENOVO\source\repos\bulky\Bullky.Models\obj\Debug\net7.0\refint\Bullky.Models.dll
+C:\Users\LENOVO\source\repos\bulky\Bullky.Models\obj\Debug\net7.0\Bullky.Models.pdb
+C:\Users\LENOVO\source\repos\bulky\Bullky.Models\obj\Debug\net7.0\ref\Bullky.Models.dll
