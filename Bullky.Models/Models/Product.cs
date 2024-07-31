@@ -36,6 +36,8 @@ namespace Bullky.Models.Models
         [Range(0, 1000)]
         [Display(Name = "price For +50")]
         public double Price50 { get; set; }
+
+
         [Required]
         [Range(0, 1000)]
         [Display(Name = "price For +100")]
