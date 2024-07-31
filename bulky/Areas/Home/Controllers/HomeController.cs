@@ -1,5 +1,4 @@
-﻿using bulky.Areas.Home.Strategy;
-using bulky.DataAccess.Data;
+﻿using bulky.DataAccess.Data;
 using bulky.Models.Models;
 using Bullky.Models.Models;
 using Microsoft.AspNetCore.Mvc;

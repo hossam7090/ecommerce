@@ -1,4 +1,3 @@
-using bulky.Areas.Home.Strategy;
 using bulky.DataAccess.Data;
 using Bullky.DataAccess.Repository;
 using Bullky.DataAccess.Repository.IRepository;
@@ -11,8 +10,6 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 	options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
-builder.Services.AddScoped<IRoleStrategy, AdminRoleStrategy>(); // Register other strategy implementations
-builder.Services.AddScoped<RoleContext>();
 
 var app = builder.Build();
 
