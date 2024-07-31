@@ -1,10 +1,13 @@
-﻿using bulky.DataAccess.Data;
+﻿using bulky.Areas.Admin.Controllers.Command;
+using bulky.DataAccess.Data;
 using bulky.Models.Models;
+using Bullky.DataAccess.Repository;
 using Bullky.DataAccess.Repository.IRepository;
 using Microsoft.AspNetCore.Mvc;
 
 namespace bulky.Areas.Admin.Controllers
 {
+
 	public class CategoryController : Controller
     {
         private readonly IUnitOfWork unitOfWork;
@@ -35,10 +38,9 @@ namespace bulky.Areas.Admin.Controllers
             }
             if (ModelState.IsValid)
             {
-                unitOfWork.Category.Add(obj);
-                unitOfWork.Save();
-                TempData["success"] = "Category Added Successfully";
-                return RedirectToAction();
+				var createCommand = new CreateCategoryCommand(unitOfWork, obj);
+				ExecuteCommand(createCommand, "Category Added Successfully");
+				return RedirectToAction();
             }
             return View();
         }
@@ -70,11 +72,10 @@ namespace bulky.Areas.Admin.Controllers
             }
             if (ModelState.IsValid)
             {
-                unitOfWork.Category.Update(obj);
-                unitOfWork.Save();
-                TempData["success"] = "Category Updated Successfully";
+				var updateCommand = new UpdateCategoryCommand(unitOfWork, obj);
+				ExecuteCommand(updateCommand, "Category Updated Successfully");
 
-                return RedirectToAction("index");
+				return RedirectToAction("index");
             }
             return View();
         }
@@ -100,12 +101,17 @@ namespace bulky.Areas.Admin.Controllers
             if (id == null || id == 0) { return NotFound(); }
             Category? obj = unitOfWork.Category.Get(u => u.Id == id);
             if (obj == null) { return NotFound(); }
-            unitOfWork.Category.Remove(obj);
-            unitOfWork.Save();
-            TempData["success"] = "Category Deleted Successfully";
-            return RedirectToAction("index");
+			var deleteCommand = new DeleteCategoryCommand(unitOfWork, obj);
+			ExecuteCommand(deleteCommand, "Category Deleted Successfully");
+
+			return RedirectToAction("index");
 
         }
+		private void ExecuteCommand(ICommand command, string successMessage)
+		{
+			command.Execute();
+			TempData["success"] = successMessage;
+		}
 
-    }
+	}
 }

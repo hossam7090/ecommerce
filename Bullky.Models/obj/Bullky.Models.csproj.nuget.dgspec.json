@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Models\\Bullky.Models.csproj": {}
+    "D:\\project\\bulky\\Bullky.Models\\Bullky.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Models\\Bullky.Models.csproj": {
+    "D:\\project\\bulky\\Bullky.Models\\Bullky.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Models\\Bullky.Models.csproj",
+        "projectUniqueName": "D:\\project\\bulky\\Bullky.Models\\Bullky.Models.csproj",
         "projectName": "Bullky.Models",
-        "projectPath": "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Models\\Bullky.Models.csproj",
+        "projectPath": "D:\\project\\bulky\\Bullky.Models\\Bullky.Models.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Models\\obj\\",
+        "outputPath": "D:\\project\\bulky\\Bullky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

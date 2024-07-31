@@ -4,6 +4,7 @@ using Bullky.DataAccess.Repository.IRepository;
 using Bullky.Models.Models;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,7 +20,20 @@ namespace Bullky.DataAccess.Repository
         }
         void IProductRepository.Update(Product product)
         {
-            _db.products.Update(product);
+            var objFromDb = _db.products.FirstOrDefault(x => x.Id == product.Id);
+            if (objFromDb != null)
+            {
+                objFromDb.Title = product.Title;
+                objFromDb.Price = product.Price;
+                objFromDb.ListPrice = product.ListPrice;
+                objFromDb.Description = product.Description;
+                objFromDb.CategoryId = product.CategoryId;
+                objFromDb.Author = product.Author;
+                if (product.ImageUrl != null)
+                {
+                    objFromDb.ImageUrl = product.ImageUrl;
+                }
+            }
         }
 
         

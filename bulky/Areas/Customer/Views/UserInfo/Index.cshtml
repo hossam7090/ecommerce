@@ -1,0 +1,78 @@
+﻿@using Bullky.Models.Models
+@model Users
+<form method="post">
+    <div class="card shadow border-0 mt-4">
+        <div class="card-header bg-secondary bg-gradient text-light py-4">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h3 class="text-white text-uppercase">@Model.UserName</h3>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="py-3">
+                <div class="row">
+                    <div class="col-6 col-md-2 offset-lg-1 pb-1">
+                        <a asp-action="Index" asp-controller="CustomerHome" asp-route-UserId="@Model.Id" class="btn btn-outline-primary bg-gradient mb-5 fw-semibold btn-sm text-uppercase">
+                            <small>Back to home</small>
+                        </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-lg-3 offset-lg-1 text-center mb-3">
+                        <img src="@Model.ImageUrl" width="100%" class="rounded" />
+                    </div>
+                    <div class="col-12 col-lg-6 offset-lg-1">
+
+                        
+
+                        <div class="row ps-2">
+                            <h6 class="text-dark   pb-2">
+                                E-mail: @Model.Email
+                                
+                            </h6>
+                        </div>
+                        <div class="row ps-2">
+                            <h6 class="text-dark   pb-2">
+                                Ssn: @Model.Ssn
+
+                            </h6>
+                        </div>
+                        <div class="row ps-2">
+                            <h6 class="text-dark   pb-2">
+                                Phone: @Model.PhoneNumber
+
+                            </h6>
+                        </div>
+                        <div class="row ps-2">
+                            <h6 class="text-dark   pb-2">
+                                Credit card: @Model.CreditCardNum
+
+                            </h6>
+                        </div>
+                        <div class="row ps-2">
+                            <p class="text-dark   pb-2">
+                               Bio : @Model.Bio
+
+                            </p>
+                        </div>
+                        
+                        
+                        
+                        
+                        
+                        <div class="row">
+                            <div class="col-12 col-md-6 pb-1">
+                                <a  asp-action="Update" asp-controller="UserInfo" asp-route-id="@Model.Id" class="btn btn-primary bg-gradient  w-100 py-2 text-uppercase fw-semibold">
+                                    Edit User
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

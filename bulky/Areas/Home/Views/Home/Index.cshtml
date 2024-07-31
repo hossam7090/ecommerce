@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+	
+
+	<div class="card shadow border-0 mt-4">
+		<div class="card-header bg-secondary bg-gradient ml-0 py-3">
+			<div class="row">
+				<div class="col-12 text-center">
+					<h2 class="text-light">Sign Up </h2>
+				</div>
+			</div>
+		</div>
+
+		<div class="card-body p-4">
+			<form method="post"  class="row">
+				<div class="border p-3 ">
+
+					<div asp-validation-summary="All"></div>
+
+					<div class="mb-3 p-1">
+						<label class="p-1">User Name</label>
+					<input id="UserName" name="UserName" type="text" class="form-control" required />
+						
+					</div>
+
+					<div class="mb-3 p-1">
+						<label class="p-1">Password</label>
+						<input id="password" name="Password"  type="password" class="form-control" required />
+
+					</div>
+
+					<div class="row">
+
+						<div class="col-6 col-md-3">
+							<button type="submit"   asp-controller="Home" asp-action="go" class="btn btn-dark form-control">Sign in</button>
+						</div>
+
+						<div class="col-6 col-md-3">
+						<a class="btn btn-outline-secondary form-control" asp-controller="SingUp" asp-action="Index">
+								Sign Up
+							</a>
+						</div>
+
+					</div>
+
+				</div>
+
+			</form>
+		</div>
+	</div>

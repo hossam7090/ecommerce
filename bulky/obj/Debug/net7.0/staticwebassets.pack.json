@@ -1,247 +1,327 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\bulky.bundle.scp.css",
+      "Id": "D:\\project\\bulky\\bulky\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\bulky.bundle.scp.css",
       "PackagePath": "staticwebassets\\bulky.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\css\\site.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\favicon.ico",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\js\\site.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\0d8a6730-ac11-4d6b-ab4e-f98fff07b625.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0d8a6730-ac11-4d6b-ab4e-f98fff07b625.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\17df0b2c-b61e-494e-a56e-bdca30fc78ab.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\17df0b2c-b61e-494e-a56e-bdca30fc78ab.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\184f7a54-4d07-4658-bdc6-ebb87497e1cd.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\184f7a54-4d07-4658-bdc6-ebb87497e1cd.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\1e84d989-5b96-4021-b2bd-a93bcf7cbc9d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1e84d989-5b96-4021-b2bd-a93bcf7cbc9d.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\2e9fc825-42d7-4a80-b87c-a1b3fcb20a71.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2e9fc825-42d7-4a80-b87c-a1b3fcb20a71.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\5c36daa0-ae19-4fe1-a6aa-84d5bc64a9a9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5c36daa0-ae19-4fe1-a6aa-84d5bc64a9a9.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\6ca076a2-e806-4ab7-b9c2-4ae2794f54f1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6ca076a2-e806-4ab7-b9c2-4ae2794f54f1.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\77403239-e6b7-4bdf-9e16-88d2e2a13932.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\77403239-e6b7-4bdf-9e16-88d2e2a13932.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\8493f82f-778e-4622-8ced-329ddde9fcdc.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8493f82f-778e-4622-8ced-329ddde9fcdc.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\8d28b95d-5799-4916-a41d-acec0766bf39.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\8d28b95d-5799-4916-a41d-acec0766bf39.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\a9384d86-c2ce-43c9-99ec-2ef92df2c909.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a9384d86-c2ce-43c9-99ec-2ef92df2c909.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\c1359448-94e5-4899-bfc5-a6cd6c1d1843.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c1359448-94e5-4899-bfc5-a6cd6c1d1843.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\cf6594d8-a27d-443c-854b-72e1727ba6db.JPG",
+      "PackagePath": "staticwebassets\\images\\product\\cf6594d8-a27d-443c-854b-72e1727ba6db.JPG"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\e3df9f91-4dc3-4712-afca-50c9130e5511.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e3df9f91-4dc3-4712-afca-50c9130e5511.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\e5265379-6e74-4977-b317-b1f6aba3a8f7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e5265379-6e74-4977-b317-b1f6aba3a8f7.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\e65383d5-7725-4f0e-a5aa-5767ed3ef713.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e65383d5-7725-4f0e-a5aa-5767ed3ef713.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\e7d4d727-4bdd-41c1-a24b-bd0ded5aee92.JPG",
+      "PackagePath": "staticwebassets\\images\\product\\e7d4d727-4bdd-41c1-a24b-bd0ded5aee92.JPG"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\e95e88ba-80df-43f7-8acb-3626598f8c70.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e95e88ba-80df-43f7-8acb-3626598f8c70.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\f4842c34-2f9e-4f75-9644-645102097da6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f4842c34-2f9e-4f75-9644-645102097da6.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\images\\product\\f79ad788-6d8f-4dbd-9f39-f8bba665ce49.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f79ad788-6d8f-4dbd-9f39-f8bba665ce49.jpg"
+    },
+    {
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\source\\repos\\bulky\\bulky\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\project\\bulky\\bulky\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

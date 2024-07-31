@@ -1,0 +1,80 @@
+﻿@using Bullky.Models.Models
+@model Users
+<div class="card shadow border-0 mt-4">
+    <div class="card-header bg-secondary bg-gradient ml-0 py-3">
+        <div class="row">
+            <div class="col-12 text-center">
+                <h2 class="text-light"> "Update" : "Create" User</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="card-body p-4">
+        <form method="post" class="row" enctype="multipart/form-data">
+            <input asp-for="ImageUrl" hidden />
+            <div class="mb-3 p-1">
+                <label class="p-1" asp-for="UserName" ></label>
+                <input type="text" class="form-control" asp-for="UserName" />
+                <span class="text-danger"></span>
+            </div>
+
+            <div class="mb-3 p-1">
+                <label class="p-1" asp-for="@Model.Password"></label>
+                <input type="text" class="form-control" asp-for="@Model.Password" />
+                <span  class="text-danger"></span>
+            </div>
+
+            <div class="mb-3 p-1">
+                <label class="p-1" asp-for="@Model.Bio"></label>
+                <input type="text" class="form-control" asp-for="@Model.Bio" />
+                <span  class="text-danger"></span>
+            </div>
+
+            <div class="mb-3 p-1">
+                <label class="p-1" asp-for="@Model.Email"></label>
+                <input type="email" class="form-control" asp-for="@Model.Email" />
+                <span  class="text-danger"></span>
+            </div>
+            <div class="mb-3 p-1">
+                <label class="p-1" asp-for="Ssn"></label>
+                <input type="text" class="form-control" asp-for="Ssn" />
+                <span class="text-danger"></span>
+            </div>
+            <div class="mb-3 p-1">
+                <label class="p-1" asp-for="@Model.PhoneNumber"></label>
+                <input type="text" class="form-control" asp-for="@Model.PhoneNumber" />
+                <span class="text-danger"></span>
+            </div>
+            <div class="mb-3 p-1">
+                <label class="p-1" asp-for="@Model.CreditCardNum"></label>
+                <input type="text" class="form-control" asp-for="@Model.CreditCardNum" />
+                <span class="text-danger"></span>
+            </div>
+
+            <div class="mb-3 p-1">
+                <label asp-for="ImageUrl" class="p-1" ></label>
+                <input type="file" name="file" asp-for="ImageUrl" class="form-control" />
+                <!-- Display the existing image if available -->
+                @* @if (!string.IsNullOrEmpty(Model.ImageUrl))
+                {
+                    <img src="@Model.ImageUrl" width="50%" style="border-radius:5px; border: 1px solid #bbb9b9" />
+                } *@
+                <span  class="text-danger"></span>
+            </div>
+
+            <!-- Additional form controls for other user properties -->
+
+            <div class="row">
+                <div class="col-6 col-md-3">
+                    <button type="submit"  class="btn btn-dark form-control">Update</button>
+                </div>
+                <div class="col-6 col-md-3">
+                    <a
+                        class="btn btn-outline-secondary form-control" asp-controller="User" asp-action="Index">
+                        Back To List
+                    </a>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

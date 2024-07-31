@@ -9,3 +9,14 @@ C:\Users\LENOVO\source\repos\bulky\Bullky.Utility\obj\Debug\net7.0\Bullky.Utilit
 C:\Users\LENOVO\source\repos\bulky\Bullky.Utility\obj\Debug\net7.0\refint\Bullky.Utility.dll
 C:\Users\LENOVO\source\repos\bulky\Bullky.Utility\obj\Debug\net7.0\Bullky.Utility.pdb
 C:\Users\LENOVO\source\repos\bulky\Bullky.Utility\obj\Debug\net7.0\ref\Bullky.Utility.dll
+D:\project\bulky\Bullky.Utility\bin\Debug\net7.0\Bullky.Utility.deps.json
+D:\project\bulky\Bullky.Utility\bin\Debug\net7.0\Bullky.Utility.dll
+D:\project\bulky\Bullky.Utility\bin\Debug\net7.0\Bullky.Utility.pdb
+D:\project\bulky\Bullky.Utility\obj\Debug\net7.0\Bullky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\bulky\Bullky.Utility\obj\Debug\net7.0\Bullky.Utility.AssemblyInfoInputs.cache
+D:\project\bulky\Bullky.Utility\obj\Debug\net7.0\Bullky.Utility.AssemblyInfo.cs
+D:\project\bulky\Bullky.Utility\obj\Debug\net7.0\Bullky.Utility.csproj.CoreCompileInputs.cache
+D:\project\bulky\Bullky.Utility\obj\Debug\net7.0\Bullky.Utility.dll
+D:\project\bulky\Bullky.Utility\obj\Debug\net7.0\refint\Bullky.Utility.dll
+D:\project\bulky\Bullky.Utility\obj\Debug\net7.0\Bullky.Utility.pdb
+D:\project\bulky\Bullky.Utility\obj\Debug\net7.0\ref\Bullky.Utility.dll

@@ -1,0 +1,69 @@
+﻿@using Bullky.Models.Models
+@model Users
+<partial name="_Notification" />
+@await Html.PartialAsync("_Notification")
+<div class="card shadow border-0 mt-4">
+	<div class="card-header bg-secondary bg-gradient ml-0 py-3">
+		<div class="row">
+			<div class="col-12 text-center">
+				<h2 class="text-light">Sin Up</h2>
+			</div>
+		</div>
+	</div>
+
+	<div class="card-body p-4">
+		<form method="post" class="row">
+			<div class="border p-3 ">
+
+				<div asp-validation-summary="All"></div>
+
+				<div class="mb-3 p-1">
+					<label class="p-1"> Name</label>
+					<input asp-for=UserName type="text" class="form-control" />
+					<span asp-validation-for="UserName" class="text-danger"></span>
+				</div>
+
+				<div class="mb-3 p-1">
+					<label class="p-1"> Email</label>
+					<input asp-for=Email type="email" class="form-control" />
+					<span asp-validation-for="Email" class="text-danger"></span>
+
+				</div>
+				<div class="mb-3 p-1">
+					<label class="p-1"> Password</label>
+					<input asp-for=Password type="text" class="form-control" />
+					<span asp-validation-for="Password" class="text-danger"></span>
+				</div>
+				<div class="mb-3 p-1">
+					<label class="p-1"> Ssn</label>
+					<input asp-for=Ssn type="text" class="form-control" />
+					<span asp-validation-for="Ssn" class="text-danger"></span>
+				</div>
+				<div class="mb-3 p-1">
+					<label class="p-1">Phone</label>
+					<input asp-for=PhoneNumber type="text" class="form-control" />
+					<span asp-validation-for="PhoneNumber" class="text-danger"></span>
+				</div>
+				<div class="mb-3 p-1">
+					<label class="p-1"> Credit Card</label>
+					<input asp-for=CreditCardNum type="text" class="form-control" />
+					<span asp-validation-for="CreditCardNum" class="text-danger"></span>
+				</div>
+
+
+
+				<div class="row">
+
+					<div class="col-6 col-md-3">
+						<button type="submit"asp-action="Singup" class="btn btn-dark form-control">Create</button>
+					</div>
+
+
+
+				</div>
+
+			</div>
+
+		</form>
+	</div>
+</div>

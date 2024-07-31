@@ -1,0 +1,54 @@
+﻿@model List<Order>
+<partial name="_Notification" />
+@await Html.PartialAsync("_Notification")
+
+
+<div class="card shadow border-0 mt-4">
+	<div class="card-header bg-secondary bg-gradient ml-0 py-3">
+		<div class="row">
+			<div class="col-12 text-center">
+				<h2 class="text-light ">Order List</h2>
+			</div>
+		</div>
+	</div>
+
+	<div class="card-body p-4">
+		<div class="container">
+
+			<div class="row  pb-3">
+				<div class="col-2 text-end">
+					<a class="btn btn-primary" asp-controller="HomeAdmin" asp-action="Index">
+						back to home
+					</a>
+				</div>
+				
+			</div>
+
+			<table class="table table-bordered  table-striped">
+				<thead>
+					<tr>
+						<th>Shipping date</th>
+						<th>Name</th>
+						<th>Address</th>
+						<th>City</th>
+						<th>State</th>
+					</tr>
+				</thead>
+				<tbody>
+					@foreach (var obj in Model.OrderBy(u => u.DateTime))
+					{
+						<tr>
+							<td>@obj.DateTime</td>
+							<td>@obj.Name</td>
+							<td>@obj.Address</td>
+							<td>@obj.City</td>
+							<td>@obj.State</td>
+							
+						</tr>
+					}
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+

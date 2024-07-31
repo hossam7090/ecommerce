@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Utility\\Bullky.Utility.csproj",
+      "projectUniqueName": "D:\\project\\bulky\\Bullky.Utility\\Bullky.Utility.csproj",
       "projectName": "Bullky.Utility",
-      "projectPath": "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Utility\\Bullky.Utility.csproj",
+      "projectPath": "D:\\project\\bulky\\Bullky.Utility\\Bullky.Utility.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LENOVO\\source\\repos\\bulky\\Bullky.Utility\\obj\\",
+      "outputPath": "D:\\project\\bulky\\Bullky.Utility\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
